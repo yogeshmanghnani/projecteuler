@@ -32,7 +32,6 @@ if __name__ == "__main__":
     numberOfSundays = 0
     start = 2   # year starts at tuesday 2nd day of week
     for year in range(1901, 2001):
-        
         first = start
         for month in range(1, 13):
             if first % 7 == 0:
