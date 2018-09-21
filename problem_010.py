@@ -1,3 +1,5 @@
+#File made by Yogesh Manghnani
+
 def checkIfPrime(n):
     if n == 1:
         return False

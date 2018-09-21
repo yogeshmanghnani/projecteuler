@@ -1,7 +1,9 @@
+#File created by Yogesh Manghnani
+
 """ This is solution to problem 15
     it is easy but requires a bit 
     of understanding. The solution 
-    her is very beautifully wirtten """
+    here is very beautifully wirtten """
     
     
 def init_dictionary():

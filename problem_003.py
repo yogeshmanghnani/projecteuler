@@ -1,3 +1,5 @@
+#File made by Yogesh Manghnani
+
 def isprime(k):
     for i in range(2, int(k**0.5)+1):
         if k%i==0:

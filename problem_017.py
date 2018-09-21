@@ -1,6 +1,8 @@
+#File created by Yogesh Manghnani
+
 ##much of it is done on a calculator
 ##very easy so i didnt code it 
-##this is just for ref 
+##this is just for reference 
 
 
 onetonine=36

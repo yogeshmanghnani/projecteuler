@@ -1,3 +1,5 @@
+#File created by Yogesh Manghnani
+
 def findAllPerfectDivisors(number):
     divisors = [1]
     for i in range(2,int((number**0.5))+1):
